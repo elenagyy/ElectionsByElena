@@ -1,0 +1,14 @@
+C:\Users\Elena\source\repos\vote\vote\bin\Debug\net8.0\vote.exe
+C:\Users\Elena\source\repos\vote\vote\bin\Debug\net8.0\vote.deps.json
+C:\Users\Elena\source\repos\vote\vote\bin\Debug\net8.0\vote.runtimeconfig.json
+C:\Users\Elena\source\repos\vote\vote\bin\Debug\net8.0\vote.dll
+C:\Users\Elena\source\repos\vote\vote\bin\Debug\net8.0\vote.pdb
+C:\Users\Elena\source\repos\vote\vote\obj\Debug\net8.0\vote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elena\source\repos\vote\vote\obj\Debug\net8.0\vote.AssemblyInfoInputs.cache
+C:\Users\Elena\source\repos\vote\vote\obj\Debug\net8.0\vote.AssemblyInfo.cs
+C:\Users\Elena\source\repos\vote\vote\obj\Debug\net8.0\vote.csproj.CoreCompileInputs.cache
+C:\Users\Elena\source\repos\vote\vote\obj\Debug\net8.0\vote.dll
+C:\Users\Elena\source\repos\vote\vote\obj\Debug\net8.0\refint\vote.dll
+C:\Users\Elena\source\repos\vote\vote\obj\Debug\net8.0\vote.pdb
+C:\Users\Elena\source\repos\vote\vote\obj\Debug\net8.0\vote.genruntimeconfig.cache
+C:\Users\Elena\source\repos\vote\vote\obj\Debug\net8.0\ref\vote.dll
